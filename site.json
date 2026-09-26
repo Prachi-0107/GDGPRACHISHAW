@@ -1,0 +1,10 @@
+{
+  "description": "Generate and customize QR codes with real-time previews, multiple data types, presets, and download options for easy sharing and reuse.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
